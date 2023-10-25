@@ -1,4 +1,4 @@
-# Collection-of-APIs-used-for-DevsNRevs
+# Collection-of-APIs-used-for-DevsNRevs-Care
  Contains a public collection of APIs used in the DevsNRevs Care website
 API | Description | 
 |---|---|
