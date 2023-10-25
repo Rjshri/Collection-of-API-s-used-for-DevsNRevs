@@ -1,4 +1,4 @@
-# Collection-of-API-s-used-for-DevsNRevs
+# Collection-of-APIs-used-for-DevsNRevs
  Contains a public collection of APIs used in the DevsNRevs Pet Healthcare website
 API | Description | 
 |---|---|
