@@ -9,5 +9,3 @@ API | Description |
 | [Dog Normal Ranges](https://huggingface.co/spaces/AnishKumbhar/DogNormalRanges) | <b>Custom</b> API that contains normal ranges of weight and height for a dog based on it's breed. API created by us |
 | [Dog Years](https://huggingface.co/spaces/AnishKumbhar/Dog_Years) | <b>Custom</b> API that Calculates human age equivalent of a dog's age based on it's size and weight. API created by us. |
 | [Dog Facts](https://dukengn.github.io/Dog-facts-API/) | Random dog facts |
-| [HTTP Dog](https://http.dog) | Dogs for every HTTP response status code |
-
